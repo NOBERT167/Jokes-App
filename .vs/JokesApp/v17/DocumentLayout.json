@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\JokesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D916-1434-47C5-8C75-1E242CD9B0BC}|JokesApp.csproj|c:\\users\\admin\\source\\repos\\jokesapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DBF5D916-1434-47C5-8C75-1E242CD9B0BC}|JokesApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D916-1434-47C5-8C75-1E242CD9B0BC}|JokesApp.csproj|c:\\users\\admin\\source\\repos\\jokesapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5D916-1434-47C5-8C75-1E242CD9B0BC}|JokesApp.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D916-1434-47C5-8C75-1E242CD9B0BC}|JokesApp.csproj|c:\\users\\admin\\source\\repos\\jokesapp\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF5D916-1434-47C5-8C75-1E242CD9B0BC}|JokesApp.csproj|solutionrelative:views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D916-1434-47C5-8C75-1E242CD9B0BC}|JokesApp.csproj|c:\\users\\admin\\source\\repos\\jokesapp\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBF5D916-1434-47C5-8C75-1E242CD9B0BC}|JokesApp.csproj|solutionrelative:views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JokesApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JokesApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-07T09:49:04.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JokesApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JokesApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "Controllers\\JokesController.cs",
+              "ViewState": "AgIAAI0AAAAAAQAAAAAiwJsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:33:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JokesApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JokesApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T09:08:04.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\JokesApp\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\JokesApp\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\ShowSearchForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T08:25:07.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
